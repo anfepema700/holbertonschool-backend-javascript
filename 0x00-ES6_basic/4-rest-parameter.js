@@ -1,3 +1,3 @@
-export default function returnHowManyArguments(...arg) {
-    console.log(arg.length);
+export default function returnHowManyArguments(...theArgs) {
+    console.log(theArgs.length);
 }
